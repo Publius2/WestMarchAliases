@@ -1,1 +1,2 @@
-import drconic
+def vroll(roll):
+    raise NotImplementedError
