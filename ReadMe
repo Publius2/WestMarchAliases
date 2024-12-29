@@ -1,0 +1,5 @@
+These are a collection of aliases intended to be run in avrae
+
+Avrae uses a symplified version of python with some baked in functions called draconic
+
+the draconicSimulator contains unimplemented versions of built in draconic functions so it can be imported and not have other code through errors when I use the built in. it also has a function that returns other files as a string minus import statements for use in testing the aliases
